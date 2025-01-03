@@ -1004,7 +1004,7 @@ elif selected == "Results":
 # Halaman Standings
 elif selected == "Standings":
     try:
-        file_path = "premier_league_table2.csv"
+        file_path = "premier_league_table.csv"
         standings_df = pd.read_csv(file_path)
 
         html_table = """

@@ -1102,19 +1102,11 @@ elif selected == "Standings":
 
             team_logo = get_team_standings_logo(row['Club'])
 
-            last_position = row['LastPosition']
-            if last_position > position:
-                change_symbol = f"<span class='arrow-up'>&uarr;</span>"
-            elif last_position < position:
-                change_symbol = f"<span class='arrow-down'>&darr;</span>"
-            else:
-                change_symbol = f"<span class='arrow-stay'>•</span>"
 
             html_table += f"""
             <div class="row {zone_class}">
                 <div class="row-content">
                     <div style="width: 5%; text-align: center;">{row['Position']}</div>
-                    <div style="width: 5%; text-align: center;">{change_symbol}</div>
                     <div style="width: 35%; text-align: left;" class="team">
                         <img src="{team_logo}" alt="Logo">
                         {row['Club']}

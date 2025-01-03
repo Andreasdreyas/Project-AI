@@ -1,0 +1,211 @@
+Fixture ID,Game Date,Home Team,Away Team,Home Win (%),Draw (%),Away Win (%)
+1208193,2024-12-26,Bournemouth,Crystal Palace,40.88%,18.29%,40.83%
+1208194,2024-12-26,Arsenal,Ipswich,48.07%,20.67%,31.26%
+1208195,2024-12-26,Brighton,Brentford,42.94%,19.83%,37.24%
+1208196,2024-12-26,Chelsea,Fulham,44.73%,19.07%,36.20%
+1208197,2024-12-26,Liverpool,Leicester,48.66%,20.72%,30.62%
+1208198,2024-12-26,Manchester City,Everton,47.59%,19.32%,33.09%
+1208199,2024-12-26,Newcastle,Aston Villa,45.35%,18.34%,36.30%
+1208200,2024-12-26,Nottingham Forest,Tottenham,36.90%,19.93%,43.17%
+1208201,2024-12-26,Southampton,West Ham,37.78%,20.17%,42.05%
+1208202,2024-12-26,Wolves,Manchester United,38.15%,19.34%,42.51%
+1208203,2024-12-29,Aston Villa,Brighton,45.32%,19.19%,35.49%
+1208204,2024-12-29,Brentford,Arsenal,36.11%,19.58%,44.31%
+1208205,2024-12-29,Crystal Palace,Southampton,43.41%,20.28%,36.31%
+1208206,2024-12-29,Everton,Nottingham Forest,42.02%,19.62%,38.36%
+1208207,2024-12-29,Fulham,Bournemouth,41.69%,18.75%,39.56%
+1208208,2024-12-29,Ipswich,Chelsea,36.64%,20.26%,43.10%
+1208209,2024-12-29,Leicester,Manchester City,34.65%,20.41%,44.94%
+1208210,2024-12-29,Manchester United,Newcastle,42.62%,19.19%,38.19%
+1208211,2024-12-29,Tottenham,Wolves,43.95%,19.20%,36.85%
+1208212,2024-12-29,West Ham,Liverpool,39.38%,17.75%,42.87%
+1208213,2025-01-04,Bournemouth,Everton,41.00%,18.47%,40.52%
+1208214,2025-01-04,Aston Villa,Leicester,46.30%,20.52%,33.18%
+1208215,2025-01-04,Brighton,Arsenal,39.35%,17.69%,42.96%
+1208216,2025-01-04,Crystal Palace,Chelsea,41.55%,17.58%,40.87%
+1208217,2025-01-04,Fulham,Ipswich,42.69%,20.22%,37.08%
+1208218,2025-01-04,Liverpool,Manchester United,46.86%,18.37%,34.76%
+1208219,2025-01-04,Manchester City,West Ham,47.52%,19.22%,33.27%
+1208220,2025-01-04,Southampton,Brentford,39.43%,20.04%,40.52%
+1208221,2025-01-04,Tottenham,Newcastle,44.06%,19.35%,36.59%
+1208222,2025-01-04,Wolves,Nottingham Forest,40.69%,19.49%,39.83%
+1208223,2025-01-14,Arsenal,Tottenham,46.09%,18.06%,35.85%
+1208224,2025-01-14,Brentford,Manchester City,36.05%,19.59%,44.36%
+1208225,2025-01-14,Everton,Aston Villa,40.45%,18.12%,41.42%
+1208226,2025-01-14,Ipswich,Brighton,38.16%,20.14%,41.70%
+1208227,2025-01-14,Leicester,Crystal Palace,37.71%,20.18%,42.12%
+1208228,2025-01-14,Nottingham Forest,Liverpool,35.45%,20.05%,44.50%
+1208229,2025-01-14,West Ham,Fulham,42.10%,18.75%,39.15%
+1208230,2025-01-15,Chelsea,Bournemouth,44.77%,19.12%,36.11%
+1208231,2025-01-15,Newcastle,Wolves,46.18%,19.46%,34.35%
+1208232,2025-01-15,Manchester United,Southampton,43.37%,20.28%,36.35%
+1208233,2025-01-18,Arsenal,Aston Villa,46.43%,18.50%,35.07%
+1208234,2025-01-18,Brentford,Liverpool,36.28%,19.57%,44.15%
+1208235,2025-01-18,Chelsea,Wolves,44.90%,19.31%,35.79%
+1208236,2025-01-18,Everton,Tottenham,39.82%,18.20%,41.98%
+1208237,2025-01-18,Ipswich,Manchester City,34.65%,20.41%,44.94%
+1208238,2025-01-18,Leicester,Fulham,38.10%,20.15%,41.76%
+1208239,2025-01-18,Manchester United,Brighton,42.37%,18.83%,38.80%
+1208240,2025-01-18,Newcastle,Bournemouth,46.05%,19.28%,34.67%
+1208241,2025-01-18,Nottingham Forest,Southampton,40.42%,20.04%,39.54%
+1208242,2025-01-18,West Ham,Crystal Palace,41.88%,18.42%,39.69%
+1208243,2025-01-25,Bournemouth,Nottingham Forest,41.75%,19.59%,38.65%
+1208244,2025-01-25,Aston Villa,West Ham,45.11%,18.90%,35.99%
+1208245,2025-01-25,Brighton,Everton,42.11%,18.61%,39.28%
+1208246,2025-01-25,Crystal Palace,Brentford,43.10%,19.84%,37.05%
+1208247,2025-01-25,Fulham,Manchester United,40.56%,17.91%,41.53%
+1208248,2025-01-25,Liverpool,Ipswich,48.66%,20.72%,30.62%
+1208249,2025-01-25,Manchester City,Chelsea,46.90%,18.41%,34.69%
+1208250,2025-01-25,Southampton,Newcastle,38.61%,20.11%,41.29%
+1208251,2025-01-25,Tottenham,Leicester,44.80%,20.40%,34.80%
+1208252,2025-01-25,Wolves,Arsenal,36.20%,19.53%,44.27%
+1208253,2025-02-01,Bournemouth,Liverpool,37.90%,18.62%,43.48%
+1208254,2025-02-01,Arsenal,Manchester City,45.13%,16.79%,38.07%
+1208255,2025-02-01,Brentford,Tottenham,37.75%,19.42%,42.82%
+1208256,2025-02-01,Chelsea,West Ham,44.55%,18.83%,36.62%
+1208257,2025-02-01,Everton,Leicester,42.41%,20.20%,37.39%
+1208258,2025-02-01,Ipswich,Southampton,40.00%,20.00%,40.00%
+1208259,2025-02-01,Manchester United,Crystal Palace,42.12%,18.46%,39.42%
+1208260,2025-02-01,Newcastle,Fulham,46.01%,19.23%,34.75%
+1208261,2025-02-01,Nottingham Forest,Brighton,38.77%,19.77%,41.45%
+1208262,2025-02-01,Wolves,Aston Villa,38.46%,19.31%,42.23%
+1208263,2025-02-15,Aston Villa,Ipswich,46.30%,20.52%,33.18%
+1208264,2025-02-15,Brighton,Chelsea,41.38%,17.55%,41.07%
+1208265,2025-02-15,Crystal Palace,Everton,42.27%,18.64%,39.09%
+1208266,2025-02-15,Fulham,Nottingham Forest,42.30%,19.65%,38.05%
+1208267,2025-02-15,Leicester,Arsenal,34.70%,20.41%,44.89%
+1208268,2025-02-15,Liverpool,Wolves,47.85%,19.66%,32.50%
+1208269,2025-02-15,Manchester City,Newcastle,47.95%,19.79%,32.26%
+1208270,2025-02-15,Southampton,Bournemouth,38.16%,20.14%,41.69%
+1208271,2025-02-15,Tottenham,Manchester United,42.93%,17.76%,39.31%
+1208272,2025-02-15,West Ham,Brentford,42.84%,19.82%,37.35%
+1208273,2025-02-22,Bournemouth,Wolves,41.28%,18.89%,39.84%
+1208274,2025-02-22,Arsenal,West Ham,46.91%,19.14%,33.95%
+1208275,2025-02-22,Aston Villa,Chelsea,44.48%,18.03%,37.49%
+1208276,2025-02-22,Everton,Manchester United,40.13%,18.16%,41.71%
+1208277,2025-02-22,Fulham,Crystal Palace,41.44%,18.37%,40.20%
+1208278,2025-02-22,Ipswich,Tottenham,36.30%,20.28%,43.41%
+1208279,2025-02-22,Leicester,Brentford,39.43%,20.04%,40.52%
+1208280,2025-02-22,Manchester City,Liverpool,45.88%,17.09%,37.03%
+1208281,2025-02-22,Newcastle,Nottingham Forest,46.64%,20.08%,33.28%
+1208282,2025-02-22,Southampton,Brighton,38.16%,20.14%,41.70%
+1208283,2025-02-25,Brentford,Everton,39.41%,19.26%,41.32%
+1208284,2025-02-25,Brighton,Bournemouth,42.24%,18.81%,38.94%
+1208285,2025-02-25,Nottingham Forest,Arsenal,35.28%,20.07%,44.65%
+1208286,2025-02-25,Tottenham,Manchester City,41.70%,16.29%,42.01%
+1208287,2025-02-25,West Ham,Leicester,43.14%,20.26%,36.60%
+1208288,2025-02-25,Wolves,Fulham,39.69%,19.19%,41.12%
+1208289,2025-02-25,Crystal Palace,Aston Villa,41.69%,17.79%,40.51%
+1208290,2025-02-26,Chelsea,Southampton,45.74%,20.48%,33.78%
+1208291,2025-02-26,Liverpool,Newcastle,47.95%,19.79%,32.26%
+1208292,2025-02-26,Manchester United,Ipswich,43.37%,20.28%,36.35%
+1208293,2025-03-08,Brentford,Aston Villa,38.37%,19.37%,42.27%
+1208294,2025-03-08,Brighton,Fulham,42.20%,18.76%,39.04%
+1208295,2025-03-08,Chelsea,Leicester,45.74%,20.48%,33.78%
+1208296,2025-03-08,Crystal Palace,Ipswich,43.41%,20.28%,36.31%
+1208297,2025-03-08,Liverpool,Southampton,48.66%,20.72%,30.62%
+1208298,2025-03-08,Manchester United,Arsenal,39.55%,17.57%,42.88%
+1208299,2025-03-08,Nottingham Forest,Manchester City,35.22%,20.07%,44.70%
+1208300,2025-03-08,Tottenham,Bournemouth,43.82%,19.01%,37.18%
+1208301,2025-03-08,West Ham,Newcastle,42.39%,19.16%,38.46%
+1208302,2025-03-08,Wolves,Everton,39.51%,19.21%,41.28%
+1208303,2025-03-15,Bournemouth,Brentford,41.84%,19.72%,38.44%
+1208304,2025-03-15,Arsenal,Chelsea,46.28%,18.32%,35.40%
+1208305,2025-03-15,Aston Villa,Liverpool,43.44%,16.61%,39.95%
+1208306,2025-03-15,Everton,West Ham,41.19%,18.39%,40.42%
+1208307,2025-03-15,Fulham,Tottenham,40.25%,17.95%,41.81%
+1208308,2025-03-15,Ipswich,Nottingham Forest,39.28%,20.06%,40.67%
+1208309,2025-03-15,Leicester,Manchester United,36.59%,20.26%,43.14%
+1208310,2025-03-15,Manchester City,Brighton,47.72%,19.48%,32.80%
+1208311,2025-03-15,Newcastle,Crystal Palace,45.80%,18.94%,35.25%
+1208312,2025-03-15,Southampton,Wolves,38.41%,20.12%,41.46%
+1208313,2025-04-01,Bournemouth,Ipswich,42.14%,20.18%,37.68%
+1208314,2025-04-01,Arsenal,Fulham,47.08%,19.36%,33.56%
+1208315,2025-04-01,Brighton,Aston Villa,41.53%,17.77%,40.71%
+1208316,2025-04-01,Nottingham Forest,Manchester United,37.19%,19.91%,42.90%
+1208317,2025-04-01,Wolves,West Ham,39.36%,19.22%,41.42%
+1208318,2025-04-02,Chelsea,Tottenham,43.72%,17.67%,38.61%
+1208319,2025-04-02,Manchester City,Leicester,48.67%,20.72%,30.61%
+1208320,2025-04-02,Newcastle,Brentford,46.72%,20.19%,33.09%
+1208321,2025-04-02,Southampton,Crystal Palace,37.71%,20.18%,42.12%
+1208322,2025-04-02,Liverpool,Everton,47.59%,19.32%,33.10%
+1208323,2025-04-05,Aston Villa,Nottingham Forest,45.92%,20.01%,34.08%
+1208324,2025-04-05,Brentford,Chelsea,38.10%,19.39%,42.50%
+1208325,2025-04-05,Crystal Palace,Brighton,42.41%,18.83%,38.76%
+1208326,2025-04-05,Everton,Arsenal,38.12%,18.41%,43.48%
+1208327,2025-04-05,Fulham,Liverpool,38.71%,18.14%,43.14%
+1208328,2025-04-05,Ipswich,Wolves,38.41%,20.12%,41.46%
+1208329,2025-04-05,Leicester,Newcastle,38.61%,20.11%,41.29%
+1208330,2025-04-05,Manchester United,Manchester City,39.49%,17.58%,42.93%
+1208331,2025-04-05,Tottenham,Southampton,44.80%,20.40%,34.80%
+1208332,2025-04-05,West Ham,Bournemouth,42.14%,18.80%,39.06%
+1208333,2025-04-12,Bournemouth,Fulham,41.10%,18.62%,40.28%
+1208334,2025-04-12,Arsenal,Brentford,47.78%,20.29%,31.93%
+1208335,2025-04-12,Brighton,Leicester,43.24%,20.27%,36.49%
+1208336,2025-04-12,Chelsea,Ipswich,45.74%,20.48%,33.78%
+1208337,2025-04-12,Liverpool,West Ham,47.51%,19.22%,33.27%
+1208338,2025-04-12,Manchester City,Crystal Palace,47.48%,19.17%,33.36%
+1208339,2025-04-12,Newcastle,Manchester United,45.18%,18.11%,36.71%
+1208340,2025-04-12,Nottingham Forest,Everton,38.53%,19.79%,41.67%
+1208341,2025-04-12,Southampton,Aston Villa,36.90%,20.24%,42.86%
+1208342,2025-04-12,Wolves,Tottenham,37.84%,19.37%,42.79%
+1208343,2025-04-19,Aston Villa,Newcastle,45.56%,19.52%,34.92%
+1208344,2025-04-19,Brentford,Brighton,39.66%,19.24%,41.10%
+1208345,2025-04-19,Crystal Palace,Bournemouth,42.41%,18.83%,38.76%
+1208346,2025-04-19,Everton,Manchester City,38.06%,18.41%,43.52%
+1208347,2025-04-19,Fulham,Chelsea,40.61%,17.90%,41.49%
+1208348,2025-04-19,Ipswich,Arsenal,34.70%,20.41%,44.89%
+1208349,2025-04-19,Leicester,Liverpool,34.87%,20.39%,44.74%
+1208350,2025-04-19,Manchester United,Wolves,42.51%,19.03%,38.45%
+1208351,2025-04-19,Tottenham,Nottingham Forest,44.42%,19.86%,35.72%
+1208352,2025-04-19,West Ham,Southampton,43.14%,20.26%,36.60%
+1208353,2025-04-26,Bournemouth,Manchester United,39.72%,18.40%,41.87%
+1208354,2025-04-26,Arsenal,Crystal Palace,46.87%,19.09%,34.04%
+1208355,2025-04-26,Brighton,West Ham,42.03%,18.50%,39.48%
+1208356,2025-04-26,Chelsea,Everton,44.63%,18.94%,36.43%
+1208357,2025-04-26,Liverpool,Tottenham,46.70%,18.16%,35.14%
+1208358,2025-04-26,Manchester City,Aston Villa,47.04%,18.59%,34.37%
+1208359,2025-04-26,Newcastle,Ipswich,47.02%,20.58%,32.40%
+1208360,2025-04-26,Nottingham Forest,Brentford,40.06%,19.66%,40.28%
+1208361,2025-04-26,Southampton,Fulham,38.10%,20.15%,41.76%
+1208362,2025-04-26,Wolves,Leicester,41.08%,20.09%,38.83%
+1208363,2025-05-03,Arsenal,Bournemouth,47.12%,19.41%,33.47%
+1208364,2025-05-03,Aston Villa,Fulham,45.29%,19.14%,35.57%
+1208365,2025-05-03,Brentford,Manchester United,38.05%,19.40%,42.55%
+1208366,2025-05-03,Brighton,Newcastle,42.49%,19.17%,38.34%
+1208367,2025-05-03,Chelsea,Liverpool,42.87%,16.51%,40.62%
+1208368,2025-05-03,Crystal Palace,Nottingham Forest,43.02%,19.72%,37.26%
+1208369,2025-05-03,Everton,Ipswich,42.41%,20.20%,37.39%
+1208370,2025-05-03,Leicester,Southampton,40.00%,20.00%,40.00%
+1208371,2025-05-03,Manchester City,Wolves,47.85%,19.66%,32.49%
+1208372,2025-05-03,West Ham,Tottenham,40.93%,17.54%,41.53%
+1208373,2025-05-10,Bournemouth,Aston Villa,40.05%,18.37%,41.59%
+1208374,2025-05-10,Fulham,Everton,41.56%,18.54%,39.90%
+1208375,2025-05-10,Ipswich,Brentford,39.43%,20.04%,40.52%
+1208376,2025-05-10,Liverpool,Arsenal,45.78%,16.95%,37.27%
+1208377,2025-05-10,Manchester United,West Ham,42.16%,18.52%,39.32%
+1208378,2025-05-10,Newcastle,Chelsea,45.21%,18.15%,36.64%
+1208379,2025-05-10,Nottingham Forest,Leicester,40.42%,20.04%,39.54%
+1208380,2025-05-10,Southampton,Manchester City,34.65%,20.41%,44.94%
+1208381,2025-05-10,Tottenham,Crystal Palace,43.56%,18.65%,37.79%
+1208382,2025-05-10,Wolves,Brighton,39.75%,19.18%,41.06%
+1208383,2025-05-18,Arsenal,Newcastle,47.35%,19.72%,32.93%
+1208384,2025-05-18,Aston Villa,Tottenham,44.28%,17.77%,37.95%
+1208385,2025-05-18,Brentford,Fulham,39.59%,19.25%,41.16%
+1208386,2025-05-18,Brighton,Liverpool,39.53%,17.66%,42.81%
+1208387,2025-05-18,Chelsea,Manchester United,43.89%,17.91%,38.20%
+1208388,2025-05-18,Crystal Palace,Wolves,42.55%,19.04%,38.42%
+1208389,2025-05-18,Everton,Southampton,42.41%,20.20%,37.39%
+1208390,2025-05-18,Leicester,Ipswich,40.00%,20.00%,40.00%
+1208391,2025-05-18,Manchester City,Bournemouth,47.72%,19.49%,32.79%
+1208392,2025-05-18,West Ham,Nottingham Forest,42.75%,19.69%,37.56%
+1208393,2025-05-25,Bournemouth,Leicester,42.14%,20.18%,37.68%
+1208394,2025-05-25,Fulham,Manchester City,38.48%,18.17%,43.35%
+1208395,2025-05-25,Ipswich,West Ham,37.78%,20.17%,42.05%
+1208396,2025-05-25,Liverpool,Crystal Palace,47.47%,19.17%,33.36%
+1208397,2025-05-25,Manchester United,Aston Villa,41.66%,17.79%,40.55%
+1208398,2025-05-25,Newcastle,Everton,45.92%,19.10%,34.98%
+1208399,2025-05-25,Nottingham Forest,Chelsea,37.24%,19.90%,42.85%
+1208400,2025-05-25,Southampton,Arsenal,34.70%,20.41%,44.89%
+1208401,2025-05-25,Tottenham,Brighton,43.81%,19.00%,37.19%
+1208402,2025-05-25,Wolves,Brentford,40.77%,19.62%,39.61%

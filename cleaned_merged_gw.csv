@@ -1,0 +1,715 @@
+name,team,position,goals_scored,assists,yellow_cards,red_cards
+Tommy Setford,Arsenal,GK,0,0,0,0
+Norberto Murara Neto,Arsenal,GK,0,0,0,0
+David Raya Martin,Arsenal,GK,0,0,2,0
+Aaron Ramsdale,Arsenal,GK,0,0,0,0
+Karl Hein,Arsenal,GK,0,0,0,0
+Maldini Kacurri,Arsenal,DEF,0,0,0,0
+Jakub Kiwior,Arsenal,DEF,0,0,0,0
+Tomiyasu Takehiro,Arsenal,DEF,0,0,0,0
+Oleksandr Zinchenko,Arsenal,DEF,0,0,1,0
+Gabriel dos Santos Magalhães,Arsenal,DEF,3,1,1,0
+William Saliba,Arsenal,DEF,1,0,2,1
+Ayden Heaven,Arsenal,DEF,0,0,0,0
+Riccardo Calafiori,Arsenal,DEF,1,0,1,0
+Benjamin White,Arsenal,DEF,0,1,2,0
+Kieran Tierney,Arsenal,DEF,0,0,0,0
+Josh Nichols,Arsenal,DEF,0,0,0,0
+Jurriën Timber,Arsenal,DEF,1,1,3,0
+Ismeal Kabia,Arsenal,MID,0,0,0,0
+Gabriel Martinelli Silva,Arsenal,MID,3,2,0,0
+Fábio Ferreira Vieira,Arsenal,MID,0,0,0,0
+Ethan Nwaneri,Arsenal,MID,1,0,0,0
+Raheem Sterling,Arsenal,MID,0,1,0,0
+Salah-Eddine Oulad M'hand,Arsenal,MID,0,0,0,0
+Reiss Nelson,Arsenal,MID,0,0,0,0
+Declan Rice,Arsenal,MID,0,2,2,1
+Bukayo Saka,Arsenal,MID,5,11,3,0
+Myles Lewis-Skelly,Arsenal,MID,0,0,1,0
+Thomas Partey,Arsenal,MID,2,1,2,0
+Mikel Merino,Arsenal,MID,1,0,1,0
+Martin Ødegaard,Arsenal,MID,1,2,1,0
+Jorge Luiz Frello Filho,Arsenal,MID,0,0,3,0
+Leandro Trossard,Arsenal,MID,3,2,0,1
+Gabriel Fernando de Jesus,Arsenal,FWD,0,0,4,0
+Eddie Nketiah,Arsenal,FWD,0,0,0,0
+Nathan Butler-Oyedeji,Arsenal,FWD,0,0,0,0
+Kai Havertz,Arsenal,FWD,5,1,2,0
+Emiliano Martínez Romero,Aston Villa,GK,0,0,1,0
+Robin Olsen,Aston Villa,GK,0,0,0,0
+Joe Gauci,Aston Villa,GK,0,0,0,0
+Viljami Sinisalo,Aston Villa,GK,0,0,0,0
+Filip Marschall,Aston Villa,GK,0,0,0,0
+Oliwier Zych,Aston Villa,GK,0,0,0,0
+Tyrone Mings,Aston Villa,DEF,0,0,0,0
+Lamare Bogarde,Aston Villa,DEF,0,0,1,0
+Diego Carlos Santos Silva,Aston Villa,DEF,0,0,1,0
+Lino da Cruz Sousa,Aston Villa,DEF,0,0,0,0
+Lucas Digne,Aston Villa,DEF,0,3,3,0
+Pau Torres,Aston Villa,DEF,0,0,1,0
+Kosta Nedeljković,Aston Villa,DEF,0,0,0,0
+Matty Cash,Aston Villa,DEF,1,0,3,0
+Ian Maatsen,Aston Villa,DEF,0,0,1,0
+Kaine Kesler-Hayden,Aston Villa,DEF,0,0,0,0
+Kortney Hause,Aston Villa,DEF,0,0,0,0
+Ezri Konsa Ngoyo,Aston Villa,DEF,1,0,0,0
+Sil Swinkels,Aston Villa,DEF,0,0,0,0
+Álex Moreno Lopera,Aston Villa,DEF,0,0,0,0
+Emiliano Buendía Stati,Aston Villa,MID,0,0,1,0
+Leon Bailey,Aston Villa,MID,0,2,2,0
+Lewis Dobbin,Aston Villa,MID,0,0,0,0
+Youri Tielemans,Aston Villa,MID,0,4,3,0
+Ross Barkley,Aston Villa,MID,2,1,3,0
+Leander Dendoncker,Aston Villa,MID,0,0,0,0
+John McGinn,Aston Villa,MID,0,1,2,0
+Morgan Rogers,Aston Villa,MID,4,2,3,0
+Moussa Diaby,Aston Villa,MID,0,0,0,0
+Jaden Philogene,Aston Villa,MID,0,0,2,1
+Jacob Ramsey,Aston Villa,MID,0,2,1,0
+Boubacar Kamara,Aston Villa,MID,0,0,1,0
+Kadan Young,Aston Villa,MID,0,0,0,0
+Enzo Barrenechea,Aston Villa,MID,0,0,0,0
+Ben Broggio,Aston Villa,MID,0,0,0,0
+Amadou Onana,Aston Villa,MID,2,0,3,0
+Samuel Iling-Junior,Aston Villa,MID,0,0,0,0
+Jhon Durán,Aston Villa,FWD,4,0,2,0
+Ollie Watkins,Aston Villa,FWD,7,3,0,0
+Mark Travers,Bournemouth,GK,0,0,0,0
+Kepa Arrizabalaga,Bournemouth,GK,0,0,1,0
+Alex Paulsen,Bournemouth,GK,0,0,0,0
+Will Dennis,Bournemouth,GK,0,0,0,0
+Norberto Murara Neto,Bournemouth,GK,0,0,0,0
+Chris Mepham,Bournemouth,DEF,0,0,0,0
+Adam Smith,Bournemouth,DEF,0,0,3,0
+James Hill,Bournemouth,DEF,0,0,0,0
+Dean Huijsen,Bournemouth,DEF,1,0,1,0
+Illia Zabarnyi,Bournemouth,DEF,0,0,2,0
+Julián Araujo Zúñiga,Bournemouth,DEF,0,0,1,0
+Max Aarons,Bournemouth,DEF,0,0,0,0
+Max Kinsey,Bournemouth,DEF,0,0,0,0
+Milos Kerkez,Bournemouth,DEF,1,2,2,0
+Marcos Senesi,Bournemouth,DEF,0,0,4,0
+David Brooks,Bournemouth,MID,1,0,0,0
+Dango Ouattara,Bournemouth,MID,1,1,0,0
+Lewis Cook,Bournemouth,MID,1,3,4,0
+Philip Billing,Bournemouth,MID,0,0,0,0
+Alex Scott,Bournemouth,MID,0,0,0,0
+Antoine Semenyo,Bournemouth,MID,4,1,5,0
+Hamed Traorè,Bournemouth,MID,0,0,0,0
+Justin Kluivert,Bournemouth,MID,5,2,4,0
+Tyler Adams,Bournemouth,MID,0,0,2,0
+Ryan Christie,Bournemouth,MID,1,0,5,0
+Jaidon Anthony,Bournemouth,MID,0,0,0,0
+Romain Faivre,Bournemouth,MID,0,0,0,0
+Luis Sinisterra,Bournemouth,MID,1,1,0,0
+Marcus Tavernier,Bournemouth,MID,1,4,2,0
+Ben Winterburn,Bournemouth,MID,0,0,0,0
+Daniel Jebbison,Bournemouth,FWD,0,0,0,0
+Enes Ünal,Bournemouth,FWD,0,1,1,0
+Francisco Evanilson de Lima Barbosa,Bournemouth,FWD,4,4,0,0
+Mark Flekken,Brentford,GK,0,0,0,0
+Hákon Valdimarsson,Brentford,GK,0,0,0,0
+Kristoffer Ajer,Brentford,DEF,0,0,3,0
+Ethan Pinnock,Brentford,DEF,2,0,2,0
+Rico Henry,Brentford,DEF,0,0,0,0
+Kim Ji-soo,Brentford,DEF,0,0,0,0
+Aaron Hickey,Brentford,DEF,0,0,0,0
+Mathias Jorgensen,Brentford,DEF,0,0,0,0
+Ben Mee,Brentford,DEF,0,0,0,0
+Sepp van den Berg,Brentford,DEF,0,0,0,0
+Jayden Meghoma,Brentford,DEF,0,0,0,0
+Nathan Collins,Brentford,DEF,1,4,2,0
+Mads Roerslev Rasmussen,Brentford,DEF,0,1,1,0
+Yehor Yarmoliuk,Brentford,MID,0,0,1,0
+Ethan Brierley,Brentford,MID,0,0,0,0
+Mathias Jensen,Brentford,MID,0,1,1,0
+Yunus Emre Konak,Brentford,MID,0,0,0,0
+Josh Dasilva,Brentford,MID,0,0,0,0
+Kevin Schade,Brentford,MID,3,3,1,0
+Ryan Trevitt,Brentford,MID,0,0,0,0
+Keane Lewis-Potter,Brentford,MID,0,3,2,0
+Tony Yogane,Brentford,MID,0,0,0,0
+Bryan Mbeumo,Brentford,MID,8,1,2,0
+Paris Maghoma,Brentford,MID,0,0,0,0
+Fábio Freitas Gouveia Carvalho,Brentford,MID,1,1,1,0
+Mikkel Damsgaard,Brentford,MID,2,4,0,0
+Frank Onyeka,Brentford,MID,0,0,0,0
+Vitaly Janelt,Brentford,MID,1,3,1,0
+Myles Peart-Harris,Brentford,MID,0,0,0,0
+Gustavo Nunes Fernandes Gomes,Brentford,MID,0,0,0,0
+Christian Nørgaard,Brentford,MID,1,1,2,1
+Ivan Toney,Brentford,FWD,0,0,0,0
+Igor Thiago Nascimento Rodrigues,Brentford,FWD,0,0,0,0
+Yoane Wissa,Brentford,FWD,7,2,1,0
+Jason Steele,Brighton,GK,0,0,0,0
+Carl Rushworth,Brighton,GK,0,0,0,0
+Killian Cahill,Brighton,GK,0,0,0,0
+Bart Verbruggen,Brighton,GK,0,0,2,0
+Jan Paul van Hecke,Brighton,DEF,0,1,4,0
+Odeluga Offiah,Brighton,DEF,0,0,0,0
+Igor Julio dos Santos de Paulo,Brighton,DEF,0,0,3,0
+Joël Veltman,Brighton,DEF,0,0,1,0
+Ferdi Kadioglu,Brighton,DEF,1,0,1,0
+Pervis Estupiñán,Brighton,DEF,0,0,2,0
+Lewis Dunk,Brighton,DEF,0,0,3,0
+Tariq Lamptey,Brighton,DEF,0,2,0,0
+Adam Webster,Brighton,DEF,0,0,0,0
+Valentín Barco,Brighton,DEF,0,0,0,0
+Jacob Slater,Brighton,DEF,0,0,0,0
+Imari Samuels,Brighton,DEF,0,0,0,0
+Ruairi McConville,Brighton,DEF,0,0,0,0
+Mats Wieffer,Brighton,MID,0,1,1,0
+Julio Enciso,Brighton,MID,0,0,0,0
+Brajan Gruda,Brighton,MID,0,0,0,0
+Benicio Baker-Boaitey,Brighton,MID,0,0,0,0
+Georginio Rutter,Brighton,MID,2,4,2,0
+Mitoma Kaoru,Brighton,MID,3,3,0,0
+Mahmoud Dahoud,Brighton,MID,0,0,0,0
+Andrew Moran,Brighton,MID,0,0,0,0
+Pascal Groß,Brighton,MID,0,0,0,0
+Simon Adingra,Brighton,MID,1,1,0,0
+Ibrahim Osman,Brighton,MID,0,0,0,0
+Billy Gilmour,Brighton,MID,0,0,0,0
+Kacper Kozłowski,Brighton,MID,0,0,0,0
+Matt O'Riley,Brighton,MID,1,0,1,0
+Solly March,Brighton,MID,0,0,0,0
+Cameron Peupion,Brighton,MID,0,0,0,0
+Carlos Baleba,Brighton,MID,2,1,1,1
+Jakub Moder,Brighton,MID,0,0,0,0
+Jack Hinshelwood,Brighton,MID,1,0,2,0
+Yasin Ayari,Brighton,MID,0,0,2,0
+Yankuba Minteh,Brighton,MID,1,2,2,0
+Adrian Mazilu,Brighton,MID,0,0,0,0
+James Milner,Brighton,MID,0,0,1,0
+Jeremy Sarmiento Morante,Brighton,MID,0,0,0,0
+Amario Cozier-Duberry,Brighton,MID,0,0,0,0
+Evan Ferguson,Brighton,FWD,1,0,0,0
+João Pedro Junqueira de Jesus,Brighton,FWD,4,3,1,0
+Deniz Undav,Brighton,FWD,0,0,0,0
+Mark O’Mahony,Brighton,FWD,0,0,0,0
+Danny Welbeck,Brighton,FWD,6,2,1,0
+Robert Sánchez,Chelsea,GK,0,0,3,0
+Lucas Bergström,Chelsea,GK,0,0,0,0
+Kepa Arrizabalaga,Chelsea,GK,0,0,0,0
+Đorđe Petrović,Chelsea,GK,0,0,0,0
+Marcus Bettinelli,Chelsea,GK,0,0,0,0
+Filip Jørgensen,Chelsea,GK,0,0,0,0
+Trevoh Chalobah,Chelsea,DEF,0,0,0,0
+Wesley Fofana,Chelsea,DEF,0,0,6,0
+Malo Gusto,Chelsea,DEF,0,1,2,0
+Tosin Adarabioyo,Chelsea,DEF,0,0,1,0
+Malang Sarr,Chelsea,DEF,0,0,0,0
+Levi Colwill,Chelsea,DEF,0,0,3,0
+Alfie Gilchrist,Chelsea,DEF,0,0,0,0
+Reece James,Chelsea,DEF,0,0,0,0
+Benoît Badiashile,Chelsea,DEF,0,0,0,0
+Caleb Wiley,Chelsea,DEF,0,0,0,0
+Ben Chilwell,Chelsea,DEF,0,0,0,0
+Axel Disasi,Chelsea,DEF,1,0,0,0
+Marc Cucurella Saseta,Chelsea,DEF,0,1,6,0
+Cesare Casadei,Chelsea,MID,0,0,0,0
+Carney Chukwuemeka,Chelsea,MID,0,0,0,0
+Lesley Ugochukwu,Chelsea,MID,0,0,0,0
+Noni Madueke,Chelsea,MID,5,3,3,0
+Andrey Nascimento dos Santos,Chelsea,MID,0,0,0,0
+Moisés Caicedo Corozo,Chelsea,MID,1,2,3,0
+Ângelo Gabriel Borges Damaceno,Chelsea,MID,0,0,0,0
+Renato Palma Veiga,Chelsea,MID,0,0,2,0
+Enzo Fernández,Chelsea,MID,2,3,1,0
+Jadon Sancho,Chelsea,MID,1,4,1,0
+Raheem Sterling,Chelsea,MID,0,0,0,0
+Conor Gallagher,Chelsea,MID,0,0,0,0
+Pedro Lomba Neto,Chelsea,MID,1,2,4,0
+Cole Palmer,Chelsea,MID,9,6,3,0
+Roméo Lavia,Chelsea,MID,0,1,2,0
+Mykhailo Mudryk,Chelsea,MID,0,0,0,0
+Omari Kellyman,Chelsea,MID,0,0,0,0
+Christopher Nkunku,Chelsea,MID,2,1,1,0
+João Félix Sequeira,Chelsea,MID,1,1,2,0
+Kiernan Dewsbury-Hall,Chelsea,MID,0,0,0,0
+Romelu Lukaku Bolingoli,Chelsea,FWD,0,0,0,0
+Nicolas Jackson,Chelsea,FWD,8,4,4,0
+Deivid Washington de Souza Eugênio,Chelsea,FWD,0,0,0,0
+David Datro Fofana,Chelsea,FWD,0,0,0,0
+Armando Broja,Chelsea,FWD,0,0,0,0
+Marc Guiu Paz,Chelsea,FWD,0,0,0,0
+Remi Matthews,Crystal Palace,GK,0,0,0,0
+Dean Henderson,Crystal Palace,GK,0,0,1,0
+Sam Johnstone,Crystal Palace,GK,0,0,0,0
+Matt Turner,Crystal Palace,GK,0,0,0,0
+Nathaniel Clyne,Crystal Palace,DEF,0,0,0,0
+Joachim Andersen,Crystal Palace,DEF,0,0,1,0
+Daniel Muñoz,Crystal Palace,DEF,1,2,4,0
+Rob Holding,Crystal Palace,DEF,0,0,0,0
+Chris Richards,Crystal Palace,DEF,0,0,1,0
+Tyrick Mitchell,Crystal Palace,DEF,0,1,2,0
+Chadi Riad Dnanou,Crystal Palace,DEF,0,0,0,0
+Caleb Kporha,Crystal Palace,DEF,0,0,0,0
+Marc Guéhi,Crystal Palace,DEF,2,1,2,0
+Trevoh Chalobah,Crystal Palace,DEF,1,0,1,0
+Joel Ward,Crystal Palace,DEF,0,0,0,0
+Maxence Lacroix,Crystal Palace,DEF,0,1,3,0
+Jeffrey Schlupp,Crystal Palace,MID,0,0,0,0
+Jefferson Lerma Solís,Crystal Palace,MID,0,0,4,0
+Jesurun Rak-Sakyi,Crystal Palace,MID,0,0,0,0
+Ismaïla Sarr,Crystal Palace,MID,1,2,2,0
+Asher Agbinone,Crystal Palace,MID,0,0,0,0
+Kaden Rodney,Crystal Palace,MID,0,0,0,0
+Matheus França de Oliveira,Crystal Palace,MID,0,0,0,0
+David Ozoh,Crystal Palace,MID,0,0,0,0
+Daichi Kamada,Crystal Palace,MID,0,0,2,1
+Adam Wharton,Crystal Palace,MID,0,0,0,0
+Cheick Doucouré,Crystal Palace,MID,0,1,1,0
+Justin Devenny,Crystal Palace,MID,1,0,0,0
+Eberechi Eze,Crystal Palace,MID,1,2,0,0
+Naouirou Ahamada,Crystal Palace,MID,0,0,0,0
+Franco Umeh-Chibueze,Crystal Palace,MID,0,0,0,0
+Jordan Ayew,Crystal Palace,MID,0,0,1,0
+Malcolm Ebiowei,Crystal Palace,MID,0,0,0,0
+Will Hughes,Crystal Palace,MID,0,0,6,0
+Jean-Philippe Mateta,Crystal Palace,FWD,4,1,2,0
+Odsonne Edouard,Crystal Palace,FWD,0,0,0,0
+Eddie Nketiah,Crystal Palace,FWD,0,0,1,0
+Zach Marsh,Crystal Palace,FWD,0,0,0,0
+Jordan Pickford,Everton,GK,0,0,1,0
+João Neves Virgínia,Everton,GK,0,0,0,0
+Asmir Begovic,Everton,GK,0,0,0,0
+Jake O'Brien,Everton,DEF,0,0,1,0
+Michael Keane,Everton,DEF,2,0,4,0
+Séamus Coleman,Everton,DEF,0,0,0,0
+Mason Holgate,Everton,DEF,0,0,0,0
+James Tarkowski,Everton,DEF,0,0,3,0
+Vitalii Mykolenko,Everton,DEF,0,1,1,0
+Jarrad Branthwaite,Everton,DEF,0,0,0,0
+Ashley Young,Everton,DEF,1,3,3,1
+Nathan Patterson,Everton,DEF,0,0,0,0
+Roman Dixon,Everton,DEF,0,0,0,0
+Jenson Metcalfe,Everton,MID,0,0,0,0
+James Garner,Everton,MID,0,0,1,0
+Abdoulaye Doucouré,Everton,MID,0,0,0,0
+Jesper Lindstrøm,Everton,MID,0,0,0,0
+Idrissa Gueye,Everton,MID,0,0,2,0
+Orel Mangala,Everton,MID,1,0,1,0
+Dwight McNeil,Everton,MID,3,5,1,0
+Tim Iroegbunam,Everton,MID,0,0,2,0
+Harrison Armstrong,Everton,MID,0,0,1,0
+Callum Bates,Everton,MID,0,0,0,0
+Jack Harrison,Everton,MID,0,1,0,0
+Norberto Bercique Gomes Betuncal,Everton,FWD,1,0,0,0
+Armando Broja,Everton,FWD,0,0,0,0
+Dominic Calvert-Lewin,Everton,FWD,2,2,1,0
+Iliman Ndiaye,Everton,FWD,2,0,1,0
+Neal Maupay,Everton,FWD,0,0,0,0
+Youssef Ramalho Chermiti,Everton,FWD,0,0,0,0
+Bernd Leno,Fulham,GK,0,1,2,0
+Steven Benda,Fulham,GK,0,0,0,0
+Tim Ream,Fulham,DEF,0,0,0,0
+Ryan Sessegnon,Fulham,DEF,0,0,0,0
+Samuel Amissah,Fulham,DEF,0,0,0,0
+Jorge Cuenca Barreno,Fulham,DEF,0,0,0,0
+Antonee Robinson,Fulham,DEF,0,4,1,0
+Timothy Castagne,Fulham,DEF,0,0,0,0
+Calvin Bassey,Fulham,DEF,0,0,4,0
+Kenny Tete,Fulham,DEF,0,1,3,0
+Kevin Mbabu,Fulham,DEF,0,0,0,0
+Joachim Andersen,Fulham,DEF,0,0,0,1
+Issa Diop,Fulham,DEF,0,0,1,0
+Sander Berge,Fulham,MID,0,0,1,0
+Josh King,Fulham,MID,0,0,0,0
+Tom Cairney,Fulham,MID,1,0,2,1
+Luke Harris,Fulham,MID,0,0,0,0
+Emile Smith Rowe,Fulham,MID,3,2,1,0
+Reiss Nelson,Fulham,MID,1,1,1,0
+Alex Iwobi,Fulham,MID,5,3,1,0
+Adama Traoré,Fulham,MID,1,3,2,0
+Martial Godo,Fulham,MID,0,0,0,0
+Saša Lukić,Fulham,MID,0,0,5,0
+Harry Wilson,Fulham,MID,3,0,2,0
+Andreas Hoelgebaum Pereira,Fulham,MID,1,2,4,0
+Harrison Reed,Fulham,MID,0,0,2,0
+Raúl Jiménez,Fulham,FWD,4,2,0,0
+Carlos Vinícius Alves Morais,Fulham,FWD,0,0,0,0
+Rodrigo Muniz Carvalho,Fulham,FWD,1,1,1,0
+Jay Stansfield,Fulham,FWD,0,0,0,0
+Christian Walton,Ipswich,GK,0,0,0,0
+Arijanet Muric,Ipswich,GK,0,0,1,0
+Cieran Slicker,Ipswich,GK,0,0,0,0
+Dara O'Shea,Ipswich,DEF,0,0,3,0
+Elkan Baggott,Ipswich,DEF,0,0,0,0
+Conor Townsend,Ipswich,DEF,0,0,0,0
+Corrie Ndaba,Ipswich,DEF,0,0,0,0
+Leif Davis,Ipswich,DEF,1,2,2,0
+Cameron Burgess,Ipswich,DEF,0,0,0,0
+George Edmundson,Ipswich,DEF,0,0,0,0
+Harry Clarke,Ipswich,DEF,0,0,0,1
+Ben Johnson,Ipswich,DEF,0,1,1,0
+Luke Woolfenden,Ipswich,DEF,0,0,1,0
+Axel Tuanzebe,Ipswich,DEF,0,0,3,0
+Jacob Greaves,Ipswich,DEF,0,0,2,0
+Kalvin Phillips,Ipswich,MID,0,0,1,1
+Chiedozie Ogbene,Ipswich,MID,0,0,0,0
+Sam Szmodics,Ipswich,MID,3,0,1,0
+Sam Morsy,Ipswich,MID,1,1,4,0
+Conor Chaplin,Ipswich,MID,0,1,1,0
+Cameron Humphreys,Ipswich,MID,0,0,0,0
+Massimo Luongo,Ipswich,MID,0,0,0,0
+Wes Burns,Ipswich,MID,0,1,1,0
+Nathan Broadhead,Ipswich,MID,0,0,0,0
+Jack Clarke,Ipswich,MID,0,1,1,0
+Omari Giraud-Hutchinson,Ipswich,MID,1,1,4,0
+Jens Cajuste,Ipswich,MID,0,0,2,0
+Marcus Myers-Harness,Ipswich,MID,0,0,0,0
+Jack Taylor,Ipswich,MID,0,0,2,0
+Ali Al-Hamadi,Ipswich,FWD,0,0,2,0
+George Hirst,Ipswich,FWD,1,1,1,0
+Liam Delap,Ipswich,FWD,6,1,3,0
+Freddie Ladapo,Ipswich,FWD,0,0,0,0
+Danny Ward,Leicester,GK,0,0,0,0
+Daniel Iversen,Leicester,GK,0,0,0,0
+Jakub Stolarczyk,Leicester,GK,0,0,0,0
+Mads Hermansen,Leicester,GK,0,0,0,0
+Caleb Okoli,Leicester,DEF,0,0,1,0
+Victor Kristiansen,Leicester,DEF,0,1,1,0
+Wout Faes,Leicester,DEF,1,0,2,0
+Ricardo Barbosa Pereira,Leicester,DEF,0,0,1,0
+Luke Thomas,Leicester,DEF,0,0,0,0
+Conor Coady,Leicester,DEF,0,0,1,0
+James Justin,Leicester,DEF,2,1,2,0
+Ben Nelson,Leicester,DEF,0,0,0,0
+Harry Souttar,Leicester,DEF,0,0,0,0
+Jannik Vestergaard,Leicester,DEF,0,0,1,0
+Kasey McAteer,Leicester,MID,0,1,0,0
+Bilal El Khannouss,Leicester,MID,1,1,0,0
+Bobby De Cordova-Reid,Leicester,MID,0,1,0,0
+Abdul Fatawu,Leicester,MID,0,2,0,0
+Boubakary Soumaré,Leicester,MID,0,0,4,0
+Facundo Buonanotte,Leicester,MID,4,2,5,0
+Harry Winks,Leicester,MID,0,2,3,0
+Jordan Ayew,Leicester,MID,3,0,3,0
+Wanya Marçal-Madivádua,Leicester,MID,0,0,0,0
+Michael Golding,Leicester,MID,0,0,0,0
+Stephy Mavididi,Leicester,MID,2,0,2,0
+Hamza Choudhury,Leicester,MID,0,0,0,0
+Oliver Skipp,Leicester,MID,0,0,3,0
+Wilfred Ndidi,Leicester,MID,0,4,4,0
+Will Alves,Leicester,MID,0,0,0,0
+Jamie Vardy,Leicester,FWD,5,2,4,0
+Patson Daka,Leicester,FWD,1,0,0,0
+Tom Cannon,Leicester,FWD,0,0,0,0
+Odsonne Edouard,Leicester,FWD,0,0,0,0
+Caoimhin Kelleher,Liverpool,GK,0,0,0,0
+Harvey Davies,Liverpool,GK,0,0,0,0
+Alisson Ramses Becker,Liverpool,GK,0,0,0,0
+Vítezslav Jaros,Liverpool,GK,0,0,0,0
+Joe Gomez,Liverpool,DEF,0,0,0,0
+Amara Nallo,Liverpool,DEF,0,0,0,0
+Andrew Robertson,Liverpool,DEF,0,0,1,0
+Trent Alexander-Arnold,Liverpool,DEF,0,3,3,0
+Sepp van den Berg,Liverpool,DEF,0,0,0,0
+Ibrahima Konaté,Liverpool,DEF,1,1,4,0
+Konstantinos Tsimikas,Liverpool,DEF,0,0,0,0
+Nathaniel Phillips,Liverpool,DEF,0,0,0,0
+Jarell Quansah,Liverpool,DEF,0,0,1,0
+Virgil van Dijk,Liverpool,DEF,1,1,1,0
+Conor Bradley,Liverpool,DEF,0,0,1,0
+Rhys Williams,Liverpool,DEF,0,0,0,0
+Federico Chiesa,Liverpool,MID,0,0,0,0
+Ryan Gravenberch,Liverpool,MID,0,1,4,0
+Alexis Mac Allister,Liverpool,MID,0,0,5,0
+Luis Díaz,Liverpool,MID,5,3,0,0
+Tyler Morton,Liverpool,MID,0,0,0,0
+Bobby Clark,Liverpool,MID,0,0,0,0
+Ben Doak,Liverpool,MID,0,0,0,0
+Treymaurice Nyoni,Liverpool,MID,0,0,0,0
+Diogo Teixeira da Silva,Liverpool,MID,2,3,1,0
+Curtis Jones,Liverpool,MID,2,2,0,0
+Dominik Szoboszlai,Liverpool,MID,1,2,3,0
+Harvey Elliott,Liverpool,MID,0,0,0,0
+Stefan Bajčetić Maquieira,Liverpool,MID,0,0,0,0
+Mohamed Salah,Liverpool,MID,13,8,1,0
+James McConnell,Liverpool,MID,0,0,0,0
+Endo Wataru,Liverpool,MID,0,0,0,0
+Cody Gakpo,Liverpool,FWD,2,1,3,0
+Darwin Núñez Ribeiro,Liverpool,FWD,2,1,3,0
+Stefan Ortega Moreno,Man City,GK,0,0,0,0
+Scott Carson,Man City,GK,0,0,0,0
+Ederson Santana de Moraes,Man City,GK,0,1,3,0
+Nathan Aké,Man City,DEF,0,0,0,0
+Rico Lewis,Man City,DEF,0,2,2,0
+Manuel Akanji,Man City,DEF,0,0,3,0
+Rúben Gato Alves Dias,Man City,DEF,0,0,3,0
+João Cavaco Cancelo,Man City,DEF,0,0,0,0
+Issa Kaboré,Man City,DEF,0,0,0,0
+John Stones,Man City,DEF,2,0,1,0
+Kyle Walker,Man City,DEF,0,0,1,0
+Jahmai Simpson-Pusey,Man City,DEF,0,0,1,0
+Josh Wilson-Esbrand,Man City,DEF,0,0,0,0
+Joško Gvardiol,Man City,DEF,3,0,0,0
+Mateo Kovačić,Man City,MID,3,1,3,0
+Matheus Luiz Nunes,Man City,MID,0,2,1,0
+Phil Foden,Man City,MID,0,1,1,0
+Sávio 'Savinho' Moreira de Oliveira,Man City,MID,0,3,2,0
+Nico O'Reilly,Man City,MID,0,0,0,0
+Oscar Bobb,Man City,MID,0,0,0,0
+Rodrigo 'Rodri' Hernandez,Man City,MID,0,0,0,0
+Jacob Wright,Man City,MID,0,0,0,0
+Bernardo Veiga de Carvalho e Silva,Man City,MID,1,3,4,0
+Jack Grealish,Man City,MID,0,1,2,0
+Jérémy Doku,Man City,MID,2,2,0,0
+Ilkay Gündogan,Man City,MID,0,1,1,0
+Kevin De Bruyne,Man City,MID,2,2,2,0
+James McAtee,Man City,MID,0,0,0,0
+Julián Álvarez,Man City,FWD,0,0,0,0
+Erling Haaland,Man City,FWD,12,1,2,0
+Tom Heaton,Man Utd,GK,0,0,0,0
+André Onana,Man Utd,GK,0,0,0,0
+Altay Bayindir,Man Utd,GK,0,0,0,0
+Harry Amass,Man Utd,DEF,0,0,0,0
+Noussair Mazraoui,Man Utd,DEF,0,1,1,0
+Godwill Kukonki,Man Utd,DEF,0,0,0,0
+Harry Maguire,Man Utd,DEF,0,0,4,0
+Jonny Evans,Man Utd,DEF,0,0,1,0
+Diogo Dalot Teixeira,Man Utd,DEF,0,1,3,0
+Tyrell Malacia,Man Utd,DEF,0,0,1,0
+Lisandro Martínez,Man Utd,DEF,0,0,5,0
+Leny Yoro,Man Utd,DEF,0,0,0,0
+Victor Lindelöf,Man Utd,DEF,0,0,1,0
+Matthijs de Ligt,Man Utd,DEF,1,0,2,0
+Luke Shaw,Man Utd,DEF,0,0,0,0
+Jadon Sancho,Man Utd,MID,0,0,0,0
+Carlos Henrique Casimiro,Man Utd,MID,1,0,1,0
+Jack Fletcher,Man Utd,MID,0,0,0,0
+Jayce Fitzgerald,Man Utd,MID,0,0,0,0
+Bruno Borges Fernandes,Man Utd,MID,2,6,1,1
+Alejandro Garnacho,Man Utd,MID,3,1,1,0
+Hannibal Mejbri,Man Utd,MID,0,0,0,0
+Christian Eriksen,Man Utd,MID,0,0,2,0
+Facundo Pellistri Rebollo,Man Utd,MID,0,0,0,0
+Toby Collyer,Man Utd,MID,0,0,0,0
+Amad Diallo,Man Utd,MID,1,5,2,0
+Scott McTominay,Man Utd,MID,0,0,0,0
+Marcus Rashford,Man Utd,MID,4,1,2,0
+Mason Mount,Man Utd,MID,0,0,2,0
+Kobbie Mainoo,Man Utd,MID,0,0,5,0
+Antony Matheus dos Santos,Man Utd,MID,0,0,0,0
+Manuel Ugarte,Man Utd,MID,0,0,3,0
+Ethan Wheatley,Man Utd,FWD,0,0,0,0
+Rasmus Højlund,Man Utd,FWD,1,1,0,0
+Joshua Zirkzee,Man Utd,FWD,3,1,1,0
+Nick Pope,Newcastle,GK,0,0,2,0
+Martin Dúbravka,Newcastle,GK,0,0,0,0
+Odysseas Vlachodimos,Newcastle,GK,0,0,0,0
+John Ruddy,Newcastle,GK,0,0,0,0
+Lloyd Kelly,Newcastle,DEF,0,1,2,0
+Kieran Trippier,Newcastle,DEF,0,0,0,0
+Jamaal Lascelles,Newcastle,DEF,0,0,0,0
+Fabian Schär,Newcastle,DEF,2,0,4,1
+Lewis Hall,Newcastle,DEF,0,1,3,0
+Alex Murphy,Newcastle,DEF,0,0,0,0
+Dan Burn,Newcastle,DEF,0,0,5,0
+Miodrag Pivaš,Newcastle,DEF,0,0,0,0
+Emil Krafth,Newcastle,DEF,0,0,0,0
+Matt Targett,Newcastle,DEF,0,0,0,0
+Jamal Lewis,Newcastle,DEF,0,0,0,0
+Tino Livramento,Newcastle,DEF,0,0,0,0
+Sven Botman,Newcastle,DEF,0,0,0,0
+Anthony Gordon,Newcastle,MID,3,2,1,0
+Isaac Hayden,Newcastle,MID,0,0,0,0
+Harvey Barnes,Newcastle,MID,4,1,0,0
+Sandro Tonali,Newcastle,MID,0,1,4,0
+Lewis Miley,Newcastle,MID,0,0,0,0
+Jacob Murphy,Newcastle,MID,0,2,1,0
+Garang Kuol,Newcastle,MID,0,0,0,0
+Miguel Almirón Rejala,Newcastle,MID,0,0,0,0
+Ryan Fraser,Newcastle,MID,0,0,0,0
+Joe Willock,Newcastle,MID,0,1,2,0
+Joe White,Newcastle,MID,0,0,0,0
+Joelinton Cássio Apolinário de Lira,Newcastle,MID,2,0,4,0
+Sean Longstaff,Newcastle,MID,0,1,2,0
+Bruno Guimarães Rodriguez Moura,Newcastle,MID,0,3,2,0
+Alexander Isak,Newcastle,FWD,5,3,0,0
+William Osula,Newcastle,FWD,0,0,0,0
+Callum Wilson,Newcastle,FWD,0,0,1,0
+Matz Sels,Nottingham Forest,GK,0,1,2,0
+Matt Turner,Nottingham Forest,GK,0,0,0,0
+Carlos Miguel dos Santos Pereira,Nottingham Forest,GK,0,0,0,0
+Omar Richards,Nottingham Forest,DEF,0,0,0,0
+Andrew Omobamidele,Nottingham Forest,DEF,0,0,0,0
+Álex Moreno Lopera,Nottingham Forest,DEF,0,1,2,0
+Willy Boly,Nottingham Forest,DEF,0,0,0,0
+Felipe Rodrigues da Silva,Nottingham Forest,DEF,0,0,0,0
+Jonathan Panzo,Nottingham Forest,DEF,0,0,0,0
+Joe Worrall,Nottingham Forest,DEF,0,0,0,0
+Murillo Santiago Costa dos Santos,Nottingham Forest,DEF,1,0,2,0
+Nikola Milenković,Nottingham Forest,DEF,0,1,2,0
+Ola Aina,Nottingham Forest,DEF,1,0,2,0
+Neco Williams,Nottingham Forest,DEF,0,0,3,0
+Harry Toffolo,Nottingham Forest,DEF,0,0,0,0
+Ramón Sosa,Nottingham Forest,MID,1,0,0,0
+Lewis O'Brien,Nottingham Forest,MID,0,0,0,0
+Elliot Anderson,Nottingham Forest,MID,0,3,3,0
+Ryan Yates,Nottingham Forest,MID,1,1,4,0
+Danilo dos Santos de Oliveira,Nottingham Forest,MID,0,0,0,0
+Eric da Silva Moreira,Nottingham Forest,MID,0,0,0,0
+Josh Bowler,Nottingham Forest,MID,0,0,0,0
+Callum Hudson-Odoi,Nottingham Forest,MID,2,1,1,0
+Anthony Elanga,Nottingham Forest,MID,0,2,1,0
+James Ward-Prowse,Nottingham Forest,MID,0,0,0,1
+Morgan Gibbs-White,Nottingham Forest,MID,1,0,3,1
+Alex Mighten,Nottingham Forest,MID,0,0,0,0
+João Pedro Ferreira Silva,Nottingham Forest,MID,0,2,1,0
+Ibrahim Sangaré,Nottingham Forest,MID,0,0,2,0
+Nicolás Domínguez,Nottingham Forest,MID,0,0,4,0
+Emmanuel Dennis,Nottingham Forest,FWD,0,0,0,0
+Taiwo Awoniyi,Nottingham Forest,FWD,0,0,0,0
+Chris Wood,Nottingham Forest,FWD,9,0,1,0
+Hwang Ui-jo,Nottingham Forest,FWD,0,0,0,0
+Aaron Ramsdale,Southampton,GK,0,0,1,0
+Mateusz Lis,Southampton,GK,0,0,0,0
+Joe Lumley,Southampton,GK,0,0,0,0
+Alex McCarthy,Southampton,GK,0,0,0,0
+Gavin Bazunu,Southampton,GK,0,0,0,0
+Charlie Taylor,Southampton,DEF,0,0,1,0
+Ryan Manning,Southampton,DEF,0,1,1,0
+Ronnie Edwards,Southampton,DEF,0,0,0,0
+Taylor Harwood-Bellis,Southampton,DEF,1,0,5,0
+Jan Bednarek,Southampton,DEF,0,0,3,0
+Kyle Walker-Peters,Southampton,DEF,0,2,3,0
+Juan Larios López,Southampton,DEF,0,0,0,0
+Armel Bella-Kotchap,Southampton,DEF,0,0,0,0
+James Bree,Southampton,DEF,0,0,0,0
+Nathan Wood-Gordon,Southampton,DEF,0,0,0,0
+Sugawara Yukinari,Southampton,DEF,1,1,2,0
+Jack Stephens,Southampton,DEF,0,0,2,2
+Ben Brereton Díaz,Southampton,MID,0,0,1,0
+Carlos Alcaraz Durán,Southampton,MID,0,0,0,0
+Samuel Edozie,Southampton,MID,0,0,1,0
+Ryan Fraser,Southampton,MID,0,0,0,1
+Samuel Amo-Ameyaw,Southampton,MID,0,0,0,0
+Tyler Dibling,Southampton,MID,1,0,5,0
+Lesley Ugochukwu,Southampton,MID,0,0,1,0
+Mateus Gonçalo Espanha Fernandes,Southampton,MID,1,1,3,0
+Kamaldeen Sulemana,Southampton,MID,0,0,0,0
+Joseph O'Brien-Whitmarsh,Southampton,MID,0,0,0,0
+Maxwel Cornet,Southampton,MID,0,0,1,0
+Joe Aribo,Southampton,MID,2,0,0,0
+Adam Lallana,Southampton,MID,0,2,4,0
+Shea Charles,Southampton,MID,0,0,0,0
+Will Smallbone,Southampton,MID,0,0,0,0
+Flynn Downes,Southampton,MID,1,0,5,0
+Ross Stewart,Southampton,FWD,0,0,1,0
+Cameron Archer,Southampton,FWD,2,0,0,0
+Sékou Mara,Southampton,FWD,0,0,0,0
+Adam Armstrong,Southampton,FWD,2,2,4,0
+Paul Onuachu,Southampton,FWD,0,0,1,0
+Alfie Whiteman,Spurs,GK,0,0,0,0
+Guglielmo Vicario,Spurs,GK,0,0,1,0
+Brandon Austin,Spurs,GK,0,0,0,0
+Fraser Forster,Spurs,GK,0,0,0,0
+Sergio Reguilón,Spurs,DEF,0,0,0,0
+Ashley Phillips,Spurs,DEF,0,0,0,0
+Micky van de Ven,Spurs,DEF,0,2,4,0
+Malachi Hardy,Spurs,DEF,0,0,0,0
+Pedro Porro,Spurs,DEF,2,1,2,0
+Emerson Leite de Souza Junior,Spurs,DEF,0,0,0,0
+Ben Davies,Spurs,DEF,0,0,1,0
+Radu Drăgușin,Spurs,DEF,0,0,0,0
+Destiny Udogie,Spurs,DEF,0,1,2,0
+Djed Spence,Spurs,DEF,0,0,1,0
+Cristian Romero,Spurs,DEF,1,0,1,0
+Archie Gray,Spurs,MID,0,0,0,0
+Son Heung-min,Spurs,MID,3,4,0,0
+Yves Bissouma,Spurs,MID,2,0,4,0
+Alfie Devine,Spurs,MID,0,0,0,0
+Manor Solomon,Spurs,MID,0,0,0,0
+Lucas Bergvall,Spurs,MID,0,0,0,0
+Luca Williams-Barnett,Spurs,MID,0,0,0,0
+Mikey Moore,Spurs,MID,0,0,0,0
+James Maddison,Spurs,MID,5,4,2,0
+Giovani Lo Celso,Spurs,MID,0,0,0,0
+Oliver Skipp,Spurs,MID,0,0,0,0
+Pape Matar Sarr,Spurs,MID,0,2,2,0
+Timo Werner,Spurs,MID,0,3,0,0
+Pierre-Emile Højbjerg,Spurs,MID,0,0,0,0
+Brennan Johnson,Spurs,MID,6,2,2,0
+Bryan Gil Salvatierra,Spurs,MID,0,0,0,0
+Callum Olusesi,Spurs,MID,0,0,0,0
+Rodrigo Bentancur,Spurs,MID,1,0,4,0
+Wilson Odobert,Spurs,MID,0,0,0,0
+Dejan Kulusevski,Spurs,MID,2,3,3,0
+Alejo Véliz,Spurs,FWD,0,0,0,0
+Will Lankshear,Spurs,FWD,0,0,0,0
+Dominic Solanke-Mitchell,Spurs,FWD,4,3,0,0
+Richarlison de Andrade,Spurs,FWD,0,1,1,0
+Dane Scarlett,Spurs,FWD,0,0,0,0
+Wes Foderingham,West Ham,GK,0,0,0,0
+Łukasz Fabiański,West Ham,GK,0,0,1,0
+Alphonse Areola,West Ham,GK,0,0,0,0
+Vladimír Coufal,West Ham,DEF,0,0,2,0
+Aaron Cresswell,West Ham,DEF,0,0,1,0
+Jean-Clair Todibo,West Ham,DEF,0,0,0,0
+Ezra Mayers,West Ham,DEF,0,0,0,0
+Kaelan Casey,West Ham,DEF,0,0,0,0
+Konstantinos Mavropanos,West Ham,DEF,0,0,1,0
+Kurt Zouma,West Ham,DEF,0,0,0,0
+Emerson Palmieri dos Santos,West Ham,DEF,1,1,4,0
+Max Kilman,West Ham,DEF,0,1,3,0
+Aaron Wan-Bissaka,West Ham,DEF,2,0,0,0
+Ollie Scarles,West Ham,DEF,0,0,0,0
+Nayef Aguerd,West Ham,DEF,0,0,0,0
+Tomáš Souček,West Ham,MID,3,1,4,0
+Jarrod Bowen,West Ham,MID,3,4,0,0
+George Earthy,West Ham,MID,0,0,0,0
+Lucas Tolentino Coelho de Lima,West Ham,MID,2,1,4,0
+Luis Guilherme Lira dos Santos,West Ham,MID,0,0,0,0
+Edson Álvarez Velázquez,West Ham,MID,0,0,3,1
+James Ward-Prowse,West Ham,MID,0,0,0,0
+Maxwel Cornet,West Ham,MID,0,0,0,0
+Crysencio Summerville,West Ham,MID,1,1,2,0
+Mohammed Kudus,West Ham,MID,2,0,0,1
+Andy Irving,West Ham,MID,0,0,1,0
+Carlos Soler,West Ham,MID,0,1,3,0
+Guido Rodríguez,West Ham,MID,0,0,3,0
+Danny Ings,West Ham,FWD,1,2,0,0
+Michail Antonio,West Ham,FWD,1,4,1,0
+Niclas Füllkrug,West Ham,FWD,1,0,0,0
+Daniel Bentley,Wolves,GK,0,0,0,0
+Sam Johnstone,Wolves,GK,0,0,0,0
+Tom King,Wolves,GK,0,0,0,0
+José Malheiro de Sá,Wolves,GK,0,0,1,0
+Yerson Mosquera,Wolves,DEF,0,0,2,0
+Alfie Pond,Wolves,DEF,0,0,0,0
+Craig Dawson,Wolves,DEF,0,1,2,0
+Bastien Meupiyou,Wolves,DEF,0,0,0,0
+Santiago Bueno,Wolves,DEF,0,0,0,0
+Rayan Aït-Nouri,Wolves,DEF,3,2,4,0
+Pedro Cardoso de Lima,Wolves,DEF,0,0,0,0
+Nélson Cabral Semedo,Wolves,DEF,0,2,5,0
+Toti António Gomes,Wolves,DEF,0,1,4,0
+Matt Doherty,Wolves,DEF,0,0,0,0
+Ki-Jana Hoever,Wolves,DEF,0,0,0,0
+Hugo Bueno López,Wolves,DEF,0,0,0,0
+Carlos Roberto Forbs Borges,Wolves,MID,0,0,2,0
+Boubacar Traoré,Wolves,MID,0,0,0,0
+Daniel Castelo Podence,Wolves,MID,0,0,0,0
+Enso González,Wolves,MID,0,0,0,0
+André Trindade da Costa Neto,Wolves,MID,0,0,2,0
+Francisco Jorge Tomás Oliveira,Wolves,MID,0,0,0,0
+Gonçalo Manuel Ganchinho Guedes,Wolves,MID,1,2,1,0
+Hwang Hee-chan,Wolves,MID,0,0,0,0
+Rodrigo Martins Gomes,Wolves,MID,0,0,0,0
+Pablo Sarabia,Wolves,MID,1,0,1,0
+Tom Edozie,Wolves,MID,0,0,0,0
+Tommy Doyle,Wolves,MID,0,1,0,0
+Mario Lemina,Wolves,MID,1,3,3,0
+Luke Cundle,Wolves,MID,0,0,0,0
+João Victor Gomes da Silva,Wolves,MID,2,1,4,0
+Tawanda Chirewa,Wolves,MID,0,0,0,0
+Joe Hodge,Wolves,MID,0,0,0,0
+Jean-Ricner Bellegarde,Wolves,MID,1,2,2,0
+Fábio Silva,Wolves,FWD,0,0,0,0
+Saša Kalajdžić,Wolves,FWD,0,0,0,0
+Nathan Fraser,Wolves,FWD,0,0,0,0
+Matheus Santos Carneiro Da Cunha,Wolves,FWD,7,3,1,0
+Leon Chiwome,Wolves,FWD,0,0,0,0
+Jørgen Strand Larsen,Wolves,FWD,6,2,2,0

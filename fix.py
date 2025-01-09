@@ -511,7 +511,7 @@ if selected == "Fixtures":
         fixtures_file_path = "2024_premier_league_fixtures_df.csv"
         fixtures_df = pd.read_csv(fixtures_file_path)
 
-        predictions_file_path = "fixture_predictions_final.csv"
+        predictions_file_path = "output_final.csv"
         predictions_df = pd.read_csv(predictions_file_path, decimal=",")
 
         # Konversi kolom tanggal ke tipe datetime
@@ -626,7 +626,7 @@ def get_wikipedia_summary(club_name):
 if selected == "Club":
     try:
         fixtures_file_path = "2024_premier_league_fixtures_df.csv"
-        predictions_file_path = "fixture_predictions_final.csv"
+        predictions_file_path = "output_final.csv"
 
         fixtures_df = pd.read_csv(fixtures_file_path)
         predictions_df = pd.read_csv(predictions_file_path, decimal=",")
